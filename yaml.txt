@@ -1,0 +1,31 @@
+
+задача 1 из варианта 6
+
+
+voyage: lonely
+though: dish
+solid: lie
+population: further
+art:
+    - false
+    - egg
+    - 1178459677
+    - -1586962236.1089773
+    - -1907917222
+    - [simply, 2036593637.8131118, true, -337887250, true, location]
+end: shine
+
+
+задача 2 из варианта 6
+
+import dis
+g=1
+f=1
+d=0
+def check(x, g):
+	return (37 | (268 - g) ^ 99) + d + f
+dis.dis(check)
+
+
+
+
