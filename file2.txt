@@ -1,2 +1,2 @@
-Changed file 2 in main branch
+Changed file2 in new branch
 
