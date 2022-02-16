@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 Changed file 2 in main branch
-
-=======
-Changed file 2 for ex 10
-File2 change in main branch
->>>>>>> main
 
